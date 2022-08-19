@@ -1,5 +1,17 @@
 {
-	"EngineAssociation": "{E152A3E5-44B1-B4C4-6D96-CB81CBEBC608}",
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "SteamVR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux"
+			]
+		}
+	]
 }
